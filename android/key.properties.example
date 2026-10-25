@@ -1,0 +1,7 @@
+# Copy this file to android/key.properties and fill in YOUR values.
+# key.properties is git-ignored. NEVER share it or the .jks file.
+storePassword=<your keystore password>
+keyPassword=<your key password>
+keyAlias=upload
+# Use forward slashes, even on Windows. Example: C:/Users/you/upload-keystore.jks
+storeFile=<full path to your upload-keystore.jks>
